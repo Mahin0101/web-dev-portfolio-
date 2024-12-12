@@ -11,6 +11,7 @@
 /* Shared style */
 /* *{
     margin: 0px;
+    
 } */
 .secondary-background{
     background-color: #fff8f3;
@@ -137,6 +138,7 @@ main section{
 /* Skills section style  */
 .skills-container{
     display: flex;
+    height: 377px;
     gap: 24px;
 }
 .skill{
@@ -203,7 +205,7 @@ footer input[type="text"], footer input[type="email"]{
 footer textarea{
     height: 180px;
     border-radius: 5px;
-    color: white;
+    color: black;
     display: block;
     width: 100%;
     padding: 18px 30px;
